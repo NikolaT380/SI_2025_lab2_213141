@@ -2,7 +2,8 @@
 Nikola Tanevski, 213141
 
 2. CFG
-   ![CFG1](assets/CFG1.svg)
+   
+   ![CFG](assets/CFG1.svg)
 
    
 3. Цикломатска комплексност
